@@ -1,0 +1,68 @@
+Exercise 1: Customizing plots - Pie charts
+
+Pie charts are appropriate:
+Instructions
+
+Possible Answers
+
+    When we want to display percentages.
+    When ggplot2 is not available.
+    When I am in a bakery.
+    Never. Barplots and tables are always better.
+
+ANSWER:
+ Never. Barplots and tables are always better.
+
+
+Exercise 2. Customizing plots - What's wrong?
+
+What is the problem with this plot?
+Instructions
+
+Possible Answers
+
+    The values are wrong. The final vote was 306 to 232.
+    The axis does not start at 0. Judging by the length, it appears Trump received 3 times as many votes when in fact 
+it was about 30% more.
+    The colors should be the same.
+    Percentages should be shown as a pie chart.
+
+ANSWER:
+ The axis does not start at 0. Judging by the length, it appears Trump received 3 times as many votes when in fact 
+it was about 30% more.
+
+
+Exercise 3: Customizing plots - What's wrong 2?
+
+Take a look at the following two plots. They show the same information: rates of measles by state in the United States
+ for 1928.
+Instructions
+
+Possible Answers
+
+    Both plots provide the same information, so they are equally good.
+    The plot on the left is better because it orders the states alphabetically.
+    The plot on the right is better because it orders the states by disease rate so we can quickly see the states with 
+highest and lowest rates.
+    Both plots should be pie charts instead
+
+
+ANSWER:
+ The plot on the right is better because it orders the states by disease rate so we can quickly see the states with 
+highest and lowest rates.
+
+
+End of Assessment: Data Visualization Principles, Part 1
+
+This is the end of the programming assignment for this section. Please DO NOT click through to additional assessments 
+from this page. WARNING: if you continue the assessments by clicking on the arrow to get the next exercise or by hitting
+ Ctrl-K your assessments may NOT get scored.
+
+You can close this window and return to Data Science: Visualization.
+Answer the question
+
+Possible Answers
+
+    Awesome
+   
+    Nope
